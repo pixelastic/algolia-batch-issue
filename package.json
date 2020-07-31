@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "algoliasearch": "4.3.1",
+    "firost": "1.11.1"
+  },
+  "scripts": {
+    "test": "node ./run.js"
+  }
+}
