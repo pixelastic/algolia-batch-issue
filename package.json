@@ -1,8 +1,9 @@
 {
   "license": "MIT",
   "dependencies": {
-    "algoliasearch": "4.3.1",
-    "firost": "1.11.1"
+    "algoliasearch": "^3",
+    "firost": "1.11.1",
+    "p-map": "4.0.0"
   },
   "scripts": {
     "test": "node ./run.js"
